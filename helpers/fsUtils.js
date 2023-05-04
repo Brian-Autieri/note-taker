@@ -43,4 +43,4 @@ const readAndRemove = (id, file) => {
   });
 };
 
-module.exports = { readFromFile, writeToFile, readAndAppend };
+module.exports = { readFromFile, writeToFile, readAndAppend, readAndRemove };
