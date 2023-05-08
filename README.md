@@ -2,11 +2,11 @@
 
 ## Description
 
-The purpose of this project was to build a webpage where users search for any city around the world and view the current weather conditions, a 5-day forecast and their history of what cities they searched. Once on the page, users can type in a city of their choice in the text box just below "Search for a City". Under "Today's Weather:" users will be able to view the date, temperature, wind speed, humidity and an icon representation of weather conditions. Click back on cities in your search history to once again view its weather conditions. 
+The purpose of this project was to build an Express-based application where users can take notes. In this application, users can create, save and delete notes all from one page.
 
 ## Usage
 
-Users can follow the link to the deployed webpage to access the weather dashboard. Enter a city around the world of your choice and click "submit" below to access the current weather conditions and the 5-day forecast for that city. Search for a different city to view its weather conditions and see your previous searches stored under "Search History:".
+Users can follow the link to the deployed webpage to access the note taker application. Click the blue "Get Started" button to get to the notes page. Users can create a title for the note and then enter the note text below. When the note is complete, click the save icon on the top right corner of the page. The note will be saved on the left side of the page. To delete a note, click on the red trash can icon next to the note. 
 
 ### Webpage Link
 
