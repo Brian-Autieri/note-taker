@@ -18,7 +18,7 @@ https://note-taker-ba.herokuapp.com/
 
 ## Credits
 
-This challenge was completed in collaboration with the instructional staff (Diarmuid Murphy), TA (Meg Meyers) and classmates in the February 2023 UCLA Extension Coding Boot Camp. Special shoutout to classmate Paul Koehler for collaborating on this project outside of class hours.
+This challenge was completed in collaboration with the instructional staff (Diarmuid Murphy), TA (Meg Meyers) and classmates in the February 2023 UCLA Extension Coding Boot Camp.
 
 ## License
 
